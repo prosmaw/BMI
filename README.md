@@ -1,6 +1,8 @@
 # capstn
 
-A new Flutter project.
+This is a basic BMI (Body Mass Index) calculator. All you have to do is enter your height and your weight click on calculate and you will see if you have a normal weight.
+
+This project was made during the #30dayschallengecode of the google developpers students clubs and is based on a tutorial giving in the courses. The challenge was to reproduise it based on the tutorial.
 
 ## Getting Started
 
