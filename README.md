@@ -1,4 +1,4 @@
-# capstn
+# BMI Calculator
 
 This is a basic BMI (Body Mass Index) calculator. All you have to do is enter your height and your weight click on calculate and you will see if you have a normal weight.
 
