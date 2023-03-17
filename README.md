@@ -4,6 +4,9 @@ This is a basic BMI (Body Mass Index) calculator. All you have to do is enter yo
 
 This project was made during the #30dayschallengecode of the google developpers students clubs and is based on a tutorial giving in the courses. The challenge was to reproduise it based on the tutorial.
 
+![Alt text](/test/photo_3_2023-03-17_09-26-44.jpg)
+
+![Alt text](/test/photo_4_2023-03-17_09-26-44.jpg)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
